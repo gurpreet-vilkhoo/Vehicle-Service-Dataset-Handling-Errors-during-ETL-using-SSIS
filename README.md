@@ -2,7 +2,11 @@
 
 Problem : Cleaning  and removing errors in the dataset containing over 1 million rows in Microsoft Visual studio
 
-### Cleaning data using Excel and Notepad++
+#### About Data
+
+Vehicle service Dataset consists of 1050000 rows consisting of Customer ID, Date since the customer is tied to the company, name of the vehicle, 2014 and 2015 service cost in dollars and 2016 estimated service cost in dollars.
+
+#### Cleaning data using Excel and Notepad++
 
 Duplicate file is created for vehicleservice.csv and transformations in data type is done on this file
 
@@ -12,7 +16,7 @@ Date format choosen is yyyy-mm-dd and dollar sign is removed in 2014,2015,2016E 
 
 ![image](https://user-images.githubusercontent.com/80466173/113104679-73898a80-921e-11eb-87e0-1597be810755.png)
 
-### Data flow
+#### Data flow
 ![5](https://user-images.githubusercontent.com/80466173/113103638-2527bc00-921d-11eb-8a2b-60e2c1e7cca9.PNG)
 
 Input is fed in Flat file source
